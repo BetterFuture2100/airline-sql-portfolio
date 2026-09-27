@@ -1,0 +1,10 @@
+# Ignore local data files and credentials
+*.csv
+*.tsv
+*.xlsx
+.env
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
